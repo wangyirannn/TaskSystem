@@ -1,0 +1,50 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,wenhao_png,tanhao_png,1_PNG,2_PNG,10000_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "wenhao_png",
+			"type": "image",
+			"url": "assets/wenhao.png"
+		},
+		{
+			"name": "tanhao_png",
+			"type": "image",
+			"url": "assets/tanhao.png"
+		},
+		{
+			"name": "1_PNG",
+			"type": "bin",
+			"url": "assets/1.PNG"
+		},
+		{
+			"name": "2_PNG",
+			"type": "bin",
+			"url": "assets/2.PNG"
+		},
+		{
+			"name": "10000_png",
+			"type": "image",
+			"url": "assets/10000.png"
+		}
+	]
+}
